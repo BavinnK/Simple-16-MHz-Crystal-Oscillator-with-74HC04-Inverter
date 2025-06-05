@@ -1,0 +1,1 @@
+# Simple-16-MHz-Crystal-Oscillator-with-74HC04-Inverter
