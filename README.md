@@ -1,4 +1,4 @@
-## 16MHz-Crystal-Oscillator-with-74HC04-Inverter
+
 
 ## 1. Overview
 
